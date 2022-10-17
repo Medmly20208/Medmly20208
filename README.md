@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a Cryptocurrency Project**
 
-- 🌱 I’m currently learning ** node,express,MongoDB**
+- 🌱 I’m currently learning **node,express,MongoDB**
 
 - 👯 I’m looking to collaborate on **web application projects**
 
