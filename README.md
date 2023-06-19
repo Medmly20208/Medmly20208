@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **web application projects**
 
-- 👨‍💻 All of my projects are available at [https://mohamedmoulay.com](https://mohamedmoulay.com)
+- 👨‍💻 All of my projects are available at [portfolio](https://chipper-muffin-552fb0.netlify.app/)
 
 - 💬 Ask me about **react,tailwindcss**
 
