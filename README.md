@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Moulay</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate fullstack developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medmly20208&label=Profile%20views&color=0e75b6&style=flat" alt="medmly20208" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medmly20208" alt="medmly20208" /></a> </p>
 
-- 🔭 I’m currently working on **a Cryptocurrency Project**
+- 🔭 I’m currently working on **my new portfolio**
 
-- 🌱 I’m currently learning **node,express,MongoDB**
+- 🌱 I’m currently learning **nextjs**
 
-- 👯 I’m looking to collaborate on **web application projects**
+- 👯 I’m looking to collaborate on **MERN projects**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://chipper-muffin-552fb0.netlify.app/)
 
