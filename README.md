@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **MERN projects**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://chipper-muffin-552fb0.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://medmly20208.github.io/portfolioNative/)
 
 - 💬 Ask me about **react,tailwindcss**
 
